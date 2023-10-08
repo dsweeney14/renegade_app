@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'Roboto'; 
+    src: url('./fonts/Roboto\ Black.ttf') format('truetype');
+  }  
+
+.output-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.tab-container {
+    margin-left: 220px;
+    margin-right: 20px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.tr {
+    font-family: 'Roboto';
+    color: #0074d9;
+    border: 2px solid;
+    border-color: #0074d9;
+    font-size: x-large;
+}
+
+.td {
+    font-family: 'Akzidenz Grotesk BQ Medium', sans-serif;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-size: larger;
+    border-bottom: 2px solid;
+    border-color: #0074d9;
+}
+
+.td-assets {
+    font-family: 'Akzidenz Grotesk BQ Medium', sans-serif;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-size: larger;
+    font-weight: bold;
+    border-bottom: 2px solid;
+    border-color: #0074d9;
+}
+
+.td-button img {
+    width: 50px;
+    height: 50px;
+}
+.td-button {
+    background-color: #ffff;
+    border: 0px;
+}

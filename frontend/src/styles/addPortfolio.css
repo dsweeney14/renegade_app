@@ -1,0 +1,15 @@
+
+.add-portfolio-container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  /* Styles for the heading */
+  .add-portfolio-heading {
+    color: #0074d9;
+    font-size: 36px;
+    margin: 0;
+    padding: 20px;
+    margin-left: 225px;
+    font-family: 'Roboto';
+  }

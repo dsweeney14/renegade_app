@@ -1,0 +1,13 @@
+.container{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.heading{
+    text-align: center;
+    font-size: 35px;
+    font-weight: bolder;
+}
+.form{
+    margin:auto;
+    width:80%;
+}

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Roboto'; 
+    src: url('./fonts/Roboto\ Regular.ttf') format('truetype');
+  }
+  
+
+.navcolumn-container{
+    font-family: 'Roboto';
+    font-size: x-large;
+    justify-content: center;
+    align-items: center;
+}
